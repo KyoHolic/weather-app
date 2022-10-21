@@ -2,4 +2,5 @@
     <string name="app_name">Step1</string>
     <string name="toast_message">%1$s was clicked.</string>
     <string name="general_error">An error occurred. Please try again later.</string>
+    <string name="title_activity_settings">SettingsActivity</string>
 </resources>
